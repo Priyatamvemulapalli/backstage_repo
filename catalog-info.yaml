@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage_repo
+  annotations:
+    github.com/project-slug: Priyatamvemulapalli/backstage_repo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: users
