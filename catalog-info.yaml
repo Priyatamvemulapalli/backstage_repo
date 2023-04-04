@@ -4,7 +4,7 @@ metadata:
   name: backstage_repo
   annotations:
     github.com/project-slug: Priyatamvemulapalli/backstage_repo
-    jira/project-key: 'TEST'
+    jira/project-key: TESTDEV
 spec:
   type: other
   lifecycle: unknown
